@@ -1,14 +1,8 @@
-.inter-custom > {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-
 body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Inter", sans-serif;
 }
 
 .container {
@@ -173,6 +167,7 @@ body {
   border: 0.9px 0px 0px 0px;
   font-family: Inter;
   font-weight: 700;
+  background-color: #ff6b82;
 }
 
 .box {
